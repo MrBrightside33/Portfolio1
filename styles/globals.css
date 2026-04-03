@@ -45,7 +45,9 @@
   --radius-4xl: calc(var(--radius) + 16px);
 }
 
-
+:root {
+  --radius: 0.625rem;
+}
 
 .dark {
   --background: oklch(0.13 0.028 261.692);
