@@ -99,7 +99,7 @@ export default function About() {
                 I am a third-year Information Technology student driven by a passion for building meaningful and impactful digital solutions. My interest in technology began with a simple curiosity about how websites work and has grown into a strong commitment to becoming a well-rounded full-stack developer.
               </p>
               <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-                I focus on learning modern web technologies, programming languages and enjoy staying current with emerging industry trends. Whether I'm designing responsive user interfaces, developing backend systems or create a program, I approach every project with enthusiasm, precision, and a strong attention to detail.
+                I focus on learning modern web technologies, programming languages and enjoy staying current with emerging industry trends. Whether I&apos;m designing responsive user interfaces, developing backend systems or create a program, I approach every project with enthusiasm, precision, and a strong attention to detail.
               </p>
               <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
                 Outside of coding, I enjoy spending time outdoors to relax, clear my mind, and recharge. I also actively participate in online courses, as I strongly believe in continuous learning and sharing knowledge with the wider community.
